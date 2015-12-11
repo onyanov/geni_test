@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geni</string>
+
+    <string name="action_select_email">Select email</string>
+
+    <string name="section_format">Loading image #%1$d...</string>
+    <string name="loading_error">Ошибка загрузки</string>
+    <string name="permission_error">Без разрешения записывать файлы их отправка по-email невозвожна</string>
+    <string name="email_subject">Geni app: фото %s</string>
+
+    <string-array name="emails">
+        <item>danil@onyanov.ru</item>
+        <item>katebogolepova@gmail.com</item>
+    </string-array>
+</resources>
